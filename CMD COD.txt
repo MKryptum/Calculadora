@@ -1,0 +1,7 @@
+CMD COD
+dir- lista todas as pastas
+cd + nome da pasta- acessa a pasta
+cd ..- volta uma pasta anterior
+cls- limpa a tela
+mkdir + nome da pasta- cria pastas
+rmdir + nome da pasta- apagar pastas
